@@ -1,0 +1,4 @@
+archivo de prueba en txt
+para textos dentro de
+Golang :)
+
